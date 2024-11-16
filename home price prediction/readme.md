@@ -8,4 +8,4 @@ predict the price of homes to help the hosts in making profit.
 python, pandas, matplotlib, decision tree, random forest, gradient boost and neural network for prediction.
 
 ## Dataset used
-the dataset used for this project can be accessed [here]()
+the dataset used for this project can be accessed [here](https://github.com/AdesinaA/data-science-machine-learning/blob/main/home%20price%20prediction/home.csv)
