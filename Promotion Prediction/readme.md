@@ -14,4 +14,4 @@ You have been called in by Abdullah to use your machine learning skills to study
 Dataset used for this task can be find [here](https://www.kaggle.com/competitions/intercampusai2019)
 
 ## Tools
-python, pandas, matplotlib & some machine learning algorithms.
+python, pandas, matplotlib & catboost algorithm.
